@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/bcabe0ac-ed3b-4e8d-86bc-c99d03e540d2" />
 # Day 71: `dir()`, `__dict__`, and `help()` in Python 🔍
 
 ## 📌 Overview
