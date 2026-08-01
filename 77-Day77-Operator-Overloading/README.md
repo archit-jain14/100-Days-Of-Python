@@ -44,4 +44,4 @@ print(f"Vector 2: {v2}")
 
 # Using + operator directly on custom Vector objects
 v3 = v1 + v2
-print(f"Sum (v1 + v2): {v3}")<img width="1920" height="1080" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/ee451779-2c01-4862-b0b0-0552a4bd99f9" />
+print(f"Sum (v1 + v2): {v3}")
